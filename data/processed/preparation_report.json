@@ -1,0 +1,29 @@
+{
+  "input_records": 223,
+  "included_documents": 111,
+  "chunks": 2149,
+  "categories": {
+    "college": 20,
+    "intake": 1,
+    "form": 20,
+    "course": 24,
+    "policy": 15,
+    "blog": 31
+  },
+  "excluded_reasons": {
+    "navigation_template_or_utility": 73,
+    "insufficient_readable_content": 14,
+    "failed_fetch": 5,
+    "identical_raw_content": 6,
+    "legacy_or_newer_policy_candidate_exists": 14
+  },
+  "fee_candidates": 96,
+  "review_flagged_documents": 51,
+  "total_embedding_tokens": 324967,
+  "tokenizer": "cl100k_base",
+  "max_chunk_tokens": 650,
+  "text_overlap_tokens": 60,
+  "median_chunk_tokens": 96,
+  "maximum_observed_chunk_tokens": 650,
+  "note": "Snapshot candidates, not staff-approved facts. No embeddings or cloud writes performed."
+}

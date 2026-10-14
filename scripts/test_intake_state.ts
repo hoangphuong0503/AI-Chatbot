@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {mkdir,writeFile} from 'node:fs/promises';
+const question='when is the earliest intake date in SA Certificate III in Glass and Glazing on November';
+const response=await fetch('http://127.0.0.1:3001/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question}),signal:AbortSignal.timeout(180000)});
+const result=await response.json();assert.equal(response.status,200,JSON.stringify(result));
+assert.match(result.answer,/16\s+(?:Nov|November)/i);
+assert.doesNotMatch(result.answer,/\b2\s+(?:Nov|November)/i);
+assert.ok(result.excerpts.length);
+assert.ok(result.retrieval_stats.vector_candidates>0);
+assert.ok(result.excerpts.every((s:string)=>s.includes('SA > MSF30422')));
+await mkdir('data/test-results',{recursive:true});
+await writeFile('data/test-results/intake-state.json',JSON.stringify({tested_at:new Date().toISOString(),passed:true,question,...result},null,2));
+console.log(JSON.stringify({passed:true,answer:result.answer,retrieval_stats:result.retrieval_stats},null,2));

@@ -1,0 +1,9 @@
+{
+  "documents": 111,
+  "chunks": 2149,
+  "provenance_checked": true,
+  "token_limits_checked": true,
+  "cookery_fee_table_intact": true,
+  "obsolete_handbook_excluded": true,
+  "primary_course_code_checked": true
+}

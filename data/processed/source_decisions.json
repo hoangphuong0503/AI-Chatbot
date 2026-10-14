@@ -1,0 +1,1457 @@
+[
+  {
+    "url": "https://austra.edu.au/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "b84d8850-465c-5748-8277-7d0e0cfaca6d"
+  },
+  {
+    "url": "https://austra.edu.au/10-high-paying-ai-resistant-vet-courses-in-australia-2026/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "9cfd97e3-058c-5979-ae80-c84244252d58"
+  },
+  {
+    "url": "https://austra.edu.au/a-complete-guide-to-becoming-a-light-vehicle-mechanic-in-australia-from-apprenticeship-to-salary-2/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "2d6f6a8a-28ba-5b00-ad0f-ad0cfa72eca7"
+  },
+  {
+    "url": "https://austra.edu.au/about-us/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "5aa43a02-1c07-550c-9348-d0bd84e2aae3"
+  },
+  {
+    "url": "https://austra.edu.au/about-us2/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/accelerate-your-career-with-an-automotive-mechanic-course-in-australia/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "97ed90f1-38c1-5f3b-9c39-f189d6e84b91"
+  },
+  {
+    "url": "https://austra.edu.au/account/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/advanced-diploma-of-information-technology-entry-requirements-for-international-students-in-australia/",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "9746f5d8-b426-59a2-af24-5914a7891923"
+  },
+  {
+    "url": "https://austra.edu.au/advanced-diploma-of-information-technology-in-australia-complete-course-guide-for-2026/",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "6be82244-ba89-5525-b70d-9038973df0ac"
+  },
+  {
+    "url": "https://austra.edu.au/advanced-diploma-of-information-technology/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "10e1ca5e-9a0c-59e7-b75e-4e2f6da7cec6"
+  },
+  {
+    "url": "https://austra.edu.au/advanced-diploma-vs-bachelor-degree-which-one-is-better-for-career-growth/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "42164081-4363-50dc-a37f-0ee39cfb82a4"
+  },
+  {
+    "url": "https://austra.edu.au/agent-application-form/",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "4553dc82-67b3-5c0c-b174-ab5310697f66"
+  },
+  {
+    "url": "https://austra.edu.au/agent-review-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/agents/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "9e11231f-8e82-509f-b13a-1d4e21de4bd0"
+  },
+  {
+    "url": "https://austra.edu.au/all-courses/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "c13743a0-c2fa-53b1-baaa-fcf780b88a9b"
+  },
+  {
+    "url": "https://austra.edu.au/application-leave-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/apply-now/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7573d39a-43a3-59d1-af10-fcfe06c42a8a"
+  },
+  {
+    "url": "https://austra.edu.au/aur-automotive-courses/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "e0bb86ce-ff40-5efb-b011-b3a4e2314e34"
+  },
+  {
+    "url": "https://austra.edu.au/aur-courses/",
+    "category": "unknown",
+    "decision": "excluded",
+    "reason": "failed_fetch"
+  },
+  {
+    "url": "https://austra.edu.au/aur30620-certificate-iii-in-light-vehicle-mechanical-technology/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "fb4b0a22-1706-50c7-a9d2-9af6ef3081a5"
+  },
+  {
+    "url": "https://austra.edu.au/aur50216-diploma-of-automotive-technology/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "6695f330-557a-5bb6-96d6-cfa176508e8c"
+  },
+  {
+    "url": "https://austra.edu.au/australia-construction-worker-shortage-2026/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "15cf9278-0ba0-53eb-aea9-c03057270ebc"
+  },
+  {
+    "url": "https://austra.edu.au/author/emp-diya/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/author/sri-nandhini/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/automotive-technology-course-in-australia/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "92365740-0192-559f-9671-bfad19c710a8"
+  },
+  {
+    "url": "https://austra.edu.au/become-a-teacher/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/beginners-guide-to-cookery-courses-in-melbourne-what-international-students-should-know/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "1036171e-5bec-5acc-a295-9093aed09643"
+  },
+  {
+    "url": "https://austra.edu.au/benefits-of-a-certificate-iii-in-light-vehicle-mechanical-technology-for-your-mechanic-career/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "1ffbdfee-9b49-5480-9190-76a28bc1a4bc"
+  },
+  {
+    "url": "https://austra.edu.au/blogs/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/bsb-courses/",
+    "category": "unknown",
+    "decision": "excluded",
+    "reason": "failed_fetch"
+  },
+  {
+    "url": "https://austra.edu.au/bsb-leadership-and-management-courses/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "a504bddc-0841-5119-af17-c1c5d9bce89f"
+  },
+  {
+    "url": "https://austra.edu.au/bsb40520-certificate-iv-in-leadership-and-management/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "af3bcf83-470d-5ece-b57c-284229f4ecb3"
+  },
+  {
+    "url": "https://austra.edu.au/bsb50420-diploma-of-leadership-and-management-australia-complete-guide-for-international-students-in-australia/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "343f8d5d-436c-5ffe-92f8-5ef11399dd87"
+  },
+  {
+    "url": "https://austra.edu.au/cabinet-making-course-australia-turning-a-trade-into-a-craft-career/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "828879a7-f0ed-5b05-87d4-bc1d8761a291"
+  },
+  {
+    "url": "https://austra.edu.au/carpentry-vs-cabinet-maker-which-hands-on-trade-suits-you/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8a1e9d57-e9e0-5c73-bced-36a3be47939f"
+  },
+  {
+    "url": "https://austra.edu.au/cart/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/category/blog/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/category/blog/page/2/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/category/blog/page/3/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/category/blog/page/4/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/category/certificate-iii-in-light-vehicle-mechanical-technology/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/certificate-iv-in-automotive-mechanical-diagnosis/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7b196d7b-401e-5f09-a9ab-69249cf4fbe7"
+  },
+  {
+    "url": "https://austra.edu.au/certificate-iv-vs-diploma-which-leadership-level-is-right/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "30b1397d-a863-5f8b-bde0-7d452ca0f8d1"
+  },
+  {
+    "url": "https://austra.edu.au/change-of-details-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/checkout/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/complaint-grievance-or-appeal-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/complaints-appeals-feedback-form/",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "b3ebe6f8-53c0-5595-b8c4-962348205f00"
+  },
+  {
+    "url": "https://austra.edu.au/contact/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "6164fda0-ea90-5d29-904b-58c70e5bff72"
+  },
+  {
+    "url": "https://austra.edu.au/contact2/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/course-transfer-request-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/courses-old/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/courses/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "9827a5da-976a-5931-a444-c76ee6dc0ffe"
+  },
+  {
+    "url": "https://austra.edu.au/cpc-construction-courses/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "3637edb1-ba60-593c-9a62-ed2cf1c20582"
+  },
+  {
+    "url": "https://austra.edu.au/cpc-courses/",
+    "category": "unknown",
+    "decision": "excluded",
+    "reason": "failed_fetch"
+  },
+  {
+    "url": "https://austra.edu.au/cpc30220-certificate-iii-in-carpentry/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "886d616d-dedc-5fa6-af19-731e05a6bd8e"
+  },
+  {
+    "url": "https://austra.edu.au/cpc30620-certificate-iii-in-painting-and-decorating/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "23c0b8a6-b273-5aa2-b375-8bbc88577c9a"
+  },
+  {
+    "url": "https://austra.edu.au/cpc31020-certificate-iii-in-solid-plastering/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "6e228295-36cd-5228-a5a6-1df1510e38be"
+  },
+  {
+    "url": "https://austra.edu.au/cpc31220-certificate-iii-in-wall-and-ceiling-lining/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "70d15cf2-a19a-5a6e-a573-ad7e1ea18a0e"
+  },
+  {
+    "url": "https://austra.edu.au/cpc31420-certificate-iii-in-construction-waterproofing/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "6ff18ef0-07f8-59ff-822f-2eb2dedd0f45"
+  },
+  {
+    "url": "https://austra.edu.au/cpc31920-certificate-iii-in-joinery/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "fd4189b8-28c2-510a-bfef-84a7999e119a"
+  },
+  {
+    "url": "https://austra.edu.au/cpc32320-certificate-iii-in-stonemasonry/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "3906c5dc-c92e-5912-8293-a37743bccb8c"
+  },
+  {
+    "url": "https://austra.edu.au/cpc32620-certificate-iii-in-roof-plumbing/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "27555159-7cee-5c2e-86d0-4adda16576ac"
+  },
+  {
+    "url": "https://austra.edu.au/cpc33020-certificate-iii-in-bricklaying-and-blocklaying/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "b53e3ae3-c9af-5696-b972-a7d2715a9c27"
+  },
+  {
+    "url": "https://austra.edu.au/cpc50220-diploma-of-building-and-construction-building/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "6aeabf90-6d4f-55bf-a3bb-1f724626b992"
+  },
+  {
+    "url": "https://austra.edu.au/crafting-excellence-in-hospitality-leadership-with-austra-colleges-diploma-of-hospitality-management/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "dc53db2a-1c0d-51ee-ae3f-9900e3aa0adb"
+  },
+  {
+    "url": "https://austra.edu.au/credit-transfer-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/critical-incident-report-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/deferral-suspension-or-cancellation-request-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/diploma-of-building-and-construction-in-australia-career-outcomes-salary-entry-requirements-2026/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "28d0e41c-99a8-5c28-b28c-e0684b3de697"
+  },
+  {
+    "url": "https://austra.edu.au/diploma-of-leadership-and-management/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8cbeefc9-6e63-59ce-8eda-6732cfa05d79"
+  },
+  {
+    "url": "https://austra.edu.au/discontinuation-deferring-of-studies-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/education-agent-information-update-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/education-agent-performance-review-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/elevate-your-it-careers-with-austra-colleges-advanced-diploma-of-information-technology-2/",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "a94f9190-8dd8-5c41-b1f9-c3d89e716a08"
+  },
+  {
+    "url": "https://austra.edu.au/elicos/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "71f15830-6916-5656-99d3-5fe5ddfc22c6"
+  },
+  {
+    "url": "https://austra.edu.au/faqs/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "18990338-bd4a-5013-9366-efe8030f4ae8"
+  },
+  {
+    "url": "https://austra.edu.au/fees-and-charges/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "31cd6527-4ebf-5e9e-a92d-f28538a7aaf3"
+  },
+  {
+    "url": "https://austra.edu.au/forgot-password/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/forms/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "2c1a8e1f-8290-5c51-b922-4736f7c3078b"
+  },
+  {
+    "url": "https://austra.edu.au/gallery/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/graduate-diploma-of-management-learning/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8f8d31c0-0eac-5be5-ae70-ca8d21b6c0c0"
+  },
+  {
+    "url": "https://austra.edu.au/hazard-incident-report-form-2/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/hazard-incident-report-form/",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/home2/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/hospitality-management-jobs-crafting-excellence-with-austra-colleges-diploma-of-hospitality-management/",
+    "category": "blog",
+    "decision": "excluded",
+    "reason": "identical_raw_content",
+    "duplicate_of": "https://austra.edu.au/hospitality-management-jobs-crafting-excellence-with-austra-colleges-diploma-of-hospitality-management/"
+  },
+  {
+    "url": "https://austra.edu.au/how-certificate-4-in-kitchen-management-boost-your-kitchen-career-2/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "2849c249-2c20-59ab-816c-72cc3850e8ec"
+  },
+  {
+    "url": "https://austra.edu.au/how-long-does-an-advanced-diploma-take-understanding-the-time-commitment-and-pathways-2026/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7decd4fc-743a-5b49-9565-02dabb0b19bf"
+  },
+  {
+    "url": "https://austra.edu.au/ict-courses",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "533ebb3f-48f4-542f-91e3-364f4c878271"
+  },
+  {
+    "url": "https://austra.edu.au/ict-courses/",
+    "category": "college",
+    "decision": "excluded",
+    "reason": "identical_raw_content",
+    "duplicate_of": "https://austra.edu.au/ict-information-and-communication-technology-course/"
+  },
+  {
+    "url": "https://austra.edu.au/ict-information-and-communication-technology-course/",
+    "category": "college",
+    "decision": "excluded",
+    "reason": "identical_raw_content",
+    "duplicate_of": "https://austra.edu.au/ict-information-and-communication-technology-course/"
+  },
+  {
+    "url": "https://austra.edu.au/ict-information-technology-course/",
+    "category": "college",
+    "decision": "excluded",
+    "reason": "identical_raw_content",
+    "duplicate_of": "https://austra.edu.au/ict-information-and-communication-technology-course/"
+  },
+  {
+    "url": "https://austra.edu.au/instructor/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/instructors/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/intake-schedule/",
+    "category": "intake",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8f348bf2-7c02-5f2f-b96a-ec64a4ce7dfe"
+  },
+  {
+    "url": "https://austra.edu.au/is-an-advanced-diploma-worth-it-benefits-career-outcomes-who-should-study-it-2026-guide/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7a51a00d-45c2-55ca-bc81-133fd205a293"
+  },
+  {
+    "url": "https://austra.edu.au/is-bsb50420-worth-it-in-2026/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "4ccb1989-b414-5850-9625-ed9d57ab5e24"
+  },
+  {
+    "url": "https://austra.edu.au/kitchen-manager-course-guide/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "86165b18-e286-599f-8b96-8c9c1e07ad7c"
+  },
+  {
+    "url": "https://austra.edu.au/landing-page-thank-you/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/light-vehicle-mechanic-salary-what-to-expect-and-how-to-increase-your-earning-potential/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7c21b456-06a3-5a68-92cc-8c0872b93c66"
+  },
+  {
+    "url": "https://austra.edu.au/lp-become-a-teacher-2/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/lp-become-a-teacher/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/lp-checkout/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/lp-profile/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/lp-term-conditions/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/maintenance/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/map/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/mem31925-certificate-iii-in-engineering-fabrication-trade/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "95f77ffa-29f9-5105-a699-d1984bb9629f"
+  },
+  {
+    "url": "https://austra.edu.au/msf-furniture-making-courses/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "a1eeab1e-84a7-57f2-828e-cc37ab56b103"
+  },
+  {
+    "url": "https://austra.edu.au/msf30322-certificate-iii-in-cabinet-making-and-timber-technology/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "09c87e6d-fd38-546d-81d3-21ad84b82e1f"
+  },
+  {
+    "url": "https://austra.edu.au/msf30422-certificate-iii-in-glass-and-glazing/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "b60fe2b4-18b2-5d2f-bcb1-3c26e25ac2db"
+  },
+  {
+    "url": "https://austra.edu.au/my-account/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/newsletter/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/painting-and-decorating-course-perth/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "af890c7b-550b-56fb-8d11-8129eb8e00e7"
+  },
+  {
+    "url": "https://austra.edu.au/pm-modi-melbourne-visit-2026-education/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7b814fd9-7873-52fa-895d-9639850374f6"
+  },
+  {
+    "url": "https://austra.edu.au/policies-forms/",
+    "category": "college",
+    "decision": "excluded",
+    "reason": "insufficient_readable_content"
+  },
+  {
+    "url": "https://austra.edu.au/policies/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "277933f0-3a47-54c1-8ada-0473f2254211"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio-masonry-2/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio-masonry/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/about-soft-skills/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/design-cover/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/electronic-book/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/fighting/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/home-work/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/keeping-smile/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/library/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/opened-book/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/reading-book/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/reading-glasses/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/startup-team/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio/up-your-skill/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio_category/books/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio_category/courses/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/portfolio_category/presentations/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/privacy-policy/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "f760a67b-4ce9-5ff1-bbd8-8f9dddf528df"
+  },
+  {
+    "url": "https://austra.edu.au/refund-application/",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "fbd0572e-f4ff-58d9-802b-467064b5d348"
+  },
+  {
+    "url": "https://austra.edu.au/reset-password/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/sample-page/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/scholarship/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "41b77bdd-0866-5bf1-8a9f-6de6d8b179b1"
+  },
+  {
+    "url": "https://austra.edu.au/shop/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/sit-courses/",
+    "category": "unknown",
+    "decision": "excluded",
+    "reason": "failed_fetch"
+  },
+  {
+    "url": "https://austra.edu.au/sit-hospitality-management-courses/",
+    "category": "college",
+    "decision": "included",
+    "reason": null,
+    "document_id": "b6ea01ed-f309-5650-ae98-7f440fd0ad63"
+  },
+  {
+    "url": "https://austra.edu.au/sit30821-certificate-iii-in-commercial-cookery/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "50b75ed1-b4cd-54ee-803d-17a679c5ddf9"
+  },
+  {
+    "url": "https://austra.edu.au/sit40521-certificate-iv-in-kitchen-management)",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "36fd0702-d9e0-5350-b1e5-002de8b286b3"
+  },
+  {
+    "url": "https://austra.edu.au/sit40521-certificate-iv-in-kitchen-management/",
+    "category": "course",
+    "decision": "excluded",
+    "reason": "identical_raw_content",
+    "duplicate_of": "https://austra.edu.au/sit40521-certificate-iv-in-kitchen-management/"
+  },
+  {
+    "url": "https://austra.edu.au/sit50422-diploma-of-hospitality-management/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "d04fb951-7eee-55f4-a55f-e7983f2c4117"
+  },
+  {
+    "url": "https://austra.edu.au/sit60322-advanced-diploma-of-hospitality-management/",
+    "category": "course",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7126b3b3-d996-5dbf-9ee0-1ab3688ebfed"
+  },
+  {
+    "url": "https://austra.edu.au/student-feedback-form/",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "d4043708-4e92-5883-b0de-4772e94ee444"
+  },
+  {
+    "url": "https://austra.edu.au/tag/advanced-diploma/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/cabinet-making-course/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/carpentry-vs-cabinet-maker/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/certificate-iv-vs-diploma/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/construction-trade-are-in-demand/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/cookery-course-in-melbourne/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/cookery-courses-in-melbourne-australia/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/cookery-courses-in-melbourne-for-international-students/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/cookery-courses-in-melbourne/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/cpc-courses/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/cpc-training-courses/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/diploma-of-hospitality-management-career/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/hospitality-management-jobs/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/sit60322/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/timber-making-course/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/waterproofing-course-in-australia/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/waterproofing-course-in-perth/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/waterproofing-course-perth/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/tag/waterproofing-course/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/the-4-pillars-of-leadership/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "0a1bac37-806b-5ab6-98cd-12ecc746542f"
+  },
+  {
+    "url": "https://austra.edu.au/the-ultimate-guide-to-advancing-your-hospitality-career-in-australia-with-sit60322/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "86c1a2dc-b331-5651-a0d5-e9448eb29603"
+  },
+  {
+    "url": "https://austra.edu.au/trade-courses-in-australia/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "29028487-ee54-52fe-b4df-ef3137419be5"
+  },
+  {
+    "url": "https://austra.edu.au/user-account/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/user-login/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/user-register/",
+    "category": "utility",
+    "decision": "excluded",
+    "reason": "navigation_template_or_utility"
+  },
+  {
+    "url": "https://austra.edu.au/waterproofing-course-perth/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "ec350bb9-4c07-5668-9371-dbd452810af8"
+  },
+  {
+    "url": "https://austra.edu.au/what-is-a-cpc-course-understanding-the-importance-of-construction-training-in-australia/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "e5a203f6-ba3f-5ce8-acd2-67219457f553"
+  },
+  {
+    "url": "https://austra.edu.au/what-is-a-painters-apprenticeship-and-how-to-become-one/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "f5d38604-e849-5baf-a1f4-7a0c1275ebbb"
+  },
+  {
+    "url": "https://austra.edu.au/what-is-an-advanced-diploma-is-it-postgraduate-complete-guide-for-students-2026/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "3005a4af-9d38-567c-a7d7-025b957510e4"
+  },
+  {
+    "url": "https://austra.edu.au/why-construction-trade-are-in-demand-in-australia/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "5dd9f386-cdc3-52d7-aeff-4c59801252f3"
+  },
+  {
+    "url": "https://austra.edu.au/why-cybersecurity-careers-are-booming-australia-2026/",
+    "category": "blog",
+    "decision": "included",
+    "reason": null,
+    "document_id": "2c0fb3e9-8a73-53e4-a8cb-42b03f9c393a"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2024/02/RPL-Application-Form.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "e2973fb8-634c-5e64-bed9-ec52a96241db"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2024/02/Student-Code-of-Conduct.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "81d10966-7d6d-5169-82f7-2bac5773a650"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/05/Austra-Application-Form-%E2%80%93-International-April-2025.pdf",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "identical_raw_content",
+    "duplicate_of": "https://austra.edu.au/wp-content/uploads/2025/05/Austra-Application-Form-%E2%80%93-International-April-2025.pdf"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/05/Austra-Application-Form-–-International-April-2025.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "1f84d1d4-847a-5998-8717-9a37e7462578"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/Academic-Integrity-and-Plagiarism-Policy-1.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/Critical-Incident-Report-Form.pdf",
+    "category": "unknown",
+    "decision": "excluded",
+    "reason": "failed_fetch"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/Data-Privacy-and-Record-Keeping-Policy-1.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "ddc53c40-78d6-5e6c-975e-677fb612e185"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/Fee-Management-and-Refund-Policy-1.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/Feedback-Complaint-and-Appeal-Policy-1.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/Monitoring-Student-Attendance-Policy-1.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8d5cbd8b-9918-57f9-af76-d18b90498c6a"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/RTO-CRICOS-Student-Handbook-1.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/07/Student-Transfer-Policy-1.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "9a0cac21-7b62-546a-ab52-2408e8b5d944"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/08/Consent-to-Reference-Template-RTO-2025.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7a882c44-40c7-5b38-853b-92bb6746cb7f"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/08/Credit-Transfer-Application-Form-1.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "f23e012c-a5bc-52d8-bbeb-676786f2530a"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/08/Individual-Leaning-Plan.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8699b8c0-ec4b-5117-958e-9f92afd1c975"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/08/Privacy-Consent-Form.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "ec7b291c-c889-53e7-9b69-7895b8b2ebba"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/08/Reasonable-Adjustment-Form.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "5f61001b-abb4-57f3-9221-4204ebadc43c"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/08/USI-Student-Authorisation-v2.01.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "071cddf6-450e-57c4-a1dc-28e5d9a1322a"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2025/09/RTO-CRICOS-Policy-and-Procedure.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "c1661c06-23b3-5569-8e9f-26e5a03f2cae"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/06/Course-Progress-Policy.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Academic-Integrity-and-Plagiarism-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "0778bcc6-5af0-5a3f-9e23-49878592c91d"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Change-of-Contact-Details.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "a207d047-ad11-5023-ba62-776d9b7fcc20"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Complaints-and-Appeals-Feedback-Form.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "cd7f8d30-07ed-52ef-8596-4374f6e20b8b"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Course-Progress-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "ea47da7d-25b8-5b95-a5b1-87af3af2aeb8"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Course-Transfer-Request-Form.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "78dca226-cb6a-5d39-8420-f0b162bc347e"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Critical-Incident-Management-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "4fdc6633-81d4-59b4-9ed1-9251e4aa81e1"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Deferral-Suspension-and-Cancellation-of-Enrolment-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "1b2bbff4-7a06-59ac-b656-e534349ad2e4"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Deferral-Suspension-or-Cancellation-Request-Form.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8a1d0dee-9b27-50b1-832e-e63ec12c1e91"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Enrolment-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "61de82a3-53cb-5faf-89da-faccd7edd4b3"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Fee-Management-and-Refund-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "acd4bcf4-187f-594a-a538-1db4058750e2"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Feedback-Complaint-and-Appeal-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "7212b7df-8d8d-5595-8a7b-901a960dd1e1"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/RTO-CRICOS-Student-Handbook-V1.5-1.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "1fcf18bc-2425-5f4e-bf50-d6c111f46017"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Refund-Request-Form.pdf",
+    "category": "form",
+    "decision": "included",
+    "reason": null,
+    "document_id": "8946709e-8b0f-5c7a-b293-1ef53e205e3c"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Student-Pre-Enrolment-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "a8ff33fc-9849-5819-8918-7656fcf20acc"
+  },
+  {
+    "url": "https://austra.edu.au/wp-content/uploads/2026/08/Student-Support-Services-Policy.pdf",
+    "category": "policy",
+    "decision": "included",
+    "reason": null,
+    "document_id": "f6e193a3-9724-58a4-ac96-c8e430be972d"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Agent-Review-Form.pdf",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/COVID-19-Support-for-International-Students.pdf",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Education-Agent-Performance-Review-Form.pdf",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/International-Student-Application.pdf",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Authorisation.pdf",
+    "category": "form",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Code-of-Conduct.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Handbook.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2024/01/Refund-Policy.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2024/02/Student-Plagiarism-Policy.pdf",
+    "category": "policy",
+    "decision": "excluded",
+    "reason": "legacy_or_newer_policy_candidate_exists"
+  }
+]

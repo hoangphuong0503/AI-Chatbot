@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+tmp/
+data/embeddings/
+*.log
+data/austra_crawl/
+data/test-results/
+output/

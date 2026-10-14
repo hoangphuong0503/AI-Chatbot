@@ -1,0 +1,866 @@
+[
+  {
+    "course_code": "CPC31920",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/cpc31920-certificate-iii-in-joinery/",
+    "section": "Course Overview: Certificate III in Joinery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31920",
+    "label": "Application Fee",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc31920-certificate-iii-in-joinery/",
+    "section": "Course Overview: Certificate III in Joinery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31920",
+    "label": "Material Fees",
+    "amount_text": "$3,000",
+    "source_url": "https://austra.edu.au/cpc31920-certificate-iii-in-joinery/",
+    "section": "Course Overview: Certificate III in Joinery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31920",
+    "label": "Total Course Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc31920-certificate-iii-in-joinery/",
+    "section": "Course Overview: Certificate III in Joinery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB50420",
+    "label": "Tuition Fees",
+    "amount_text": "$12,500",
+    "source_url": "https://austra.edu.au/diploma-of-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB50420",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/diploma-of-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB50420",
+    "label": "Material Fees",
+    "amount_text": "$1,000",
+    "source_url": "https://austra.edu.au/diploma-of-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB50420",
+    "label": "Total Fees",
+    "amount_text": "$14,000",
+    "source_url": "https://austra.edu.au/diploma-of-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30220",
+    "label": "Tuition Fees",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc30220-certificate-iii-in-carpentry/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30220",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc30220-certificate-iii-in-carpentry/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30220",
+    "label": "Material Fees",
+    "amount_text": "$1500",
+    "source_url": "https://austra.edu.au/cpc30220-certificate-iii-in-carpentry/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30220",
+    "label": "Total Fee",
+    "amount_text": "$22,000",
+    "source_url": "https://austra.edu.au/cpc30220-certificate-iii-in-carpentry/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB80120",
+    "label": "Tuition Fees",
+    "amount_text": "$32,000",
+    "source_url": "https://austra.edu.au/graduate-diploma-of-management-learning/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB80120",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/graduate-diploma-of-management-learning/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB80120",
+    "label": "Material Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/graduate-diploma-of-management-learning/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB80120",
+    "label": "Total Fees",
+    "amount_text": "$33,000",
+    "source_url": "https://austra.edu.au/graduate-diploma-of-management-learning/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32320",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/cpc32320-certificate-iii-in-stonemasonry/",
+    "section": "Course Overview : Certificate III in Stonemasonry > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32320",
+    "label": "Enrolment Fee",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc32320-certificate-iii-in-stonemasonry/",
+    "section": "Course Overview : Certificate III in Stonemasonry > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32320",
+    "label": "Material Fees",
+    "amount_text": "$3,000",
+    "source_url": "https://austra.edu.au/cpc32320-certificate-iii-in-stonemasonry/",
+    "section": "Course Overview : Certificate III in Stonemasonry > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32320",
+    "label": "Total Course Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc32320-certificate-iii-in-stonemasonry/",
+    "section": "Course Overview : Certificate III in Stonemasonry > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR50216",
+    "label": "Tuition Fees",
+    "amount_text": "$14500",
+    "source_url": "https://austra.edu.au/aur50216-diploma-of-automotive-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR50216",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/aur50216-diploma-of-automotive-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR50216",
+    "label": "Material Fees",
+    "amount_text": "$1,000 (This include work clothing, an automotive based tool kit and text books)",
+    "source_url": "https://austra.edu.au/aur50216-diploma-of-automotive-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR50216",
+    "label": "Total Fees",
+    "amount_text": "$16,000",
+    "source_url": "https://austra.edu.au/aur50216-diploma-of-automotive-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32620",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/cpc32620-certificate-iii-in-roof-plumbing/",
+    "section": "Course Overview: Certificate III in Roof Plumbing > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32620",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc32620-certificate-iii-in-roof-plumbing/",
+    "section": "Course Overview: Certificate III in Roof Plumbing > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32620",
+    "label": "Material Fees",
+    "amount_text": "$3,000",
+    "source_url": "https://austra.edu.au/cpc32620-certificate-iii-in-roof-plumbing/",
+    "section": "Course Overview: Certificate III in Roof Plumbing > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC32620",
+    "label": "Total Course Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc32620-certificate-iii-in-roof-plumbing/",
+    "section": "Course Overview: Certificate III in Roof Plumbing > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "ICT60220",
+    "label": "Tuition Fees",
+    "amount_text": "$30,000",
+    "source_url": "https://austra.edu.au/advanced-diploma-of-information-technology/",
+    "section": "Course Overview: Advanced Diploma of Information Technology > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "ICT60220",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/advanced-diploma-of-information-technology/",
+    "section": "Course Overview: Advanced Diploma of Information Technology > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "ICT60220",
+    "label": "Material Fees",
+    "amount_text": "$1500",
+    "source_url": "https://austra.edu.au/advanced-diploma-of-information-technology/",
+    "section": "Course Overview: Advanced Diploma of Information Technology > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "ICT60220",
+    "label": "Total Fees",
+    "amount_text": "$32,000",
+    "source_url": "https://austra.edu.au/advanced-diploma-of-information-technology/",
+    "section": "Course Overview: Advanced Diploma of Information Technology > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT50422",
+    "label": "Tuition Fees",
+    "amount_text": "$24,000",
+    "source_url": "https://austra.edu.au/sit50422-diploma-of-hospitality-management/",
+    "section": "SIT50422 Diploma of Hospitality Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT50422",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/sit50422-diploma-of-hospitality-management/",
+    "section": "SIT50422 Diploma of Hospitality Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT50422",
+    "label": "Material Fees",
+    "amount_text": "$1500 (includes work clothing, a cookery based tool kit and text books)",
+    "source_url": "https://austra.edu.au/sit50422-diploma-of-hospitality-management/",
+    "section": "SIT50422 Diploma of Hospitality Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT50422",
+    "label": "Total Course Fee",
+    "amount_text": "$26,000",
+    "source_url": "https://austra.edu.au/sit50422-diploma-of-hospitality-management/",
+    "section": "SIT50422 Diploma of Hospitality Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31020",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/cpc31020-certificate-iii-in-solid-plastering/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31020",
+    "label": "Enrolment Fee",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc31020-certificate-iii-in-solid-plastering/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31020",
+    "label": "Material Fees",
+    "amount_text": "$3,000",
+    "source_url": "https://austra.edu.au/cpc31020-certificate-iii-in-solid-plastering/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31020",
+    "label": "Total Course Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc31020-certificate-iii-in-solid-plastering/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30422",
+    "label": "Tuition Fees",
+    "amount_text": "$16,000",
+    "source_url": "https://austra.edu.au/msf30422-certificate-iii-in-glass-and-glazing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30422",
+    "label": "Enrollment Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/msf30422-certificate-iii-in-glass-and-glazing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30422",
+    "label": "Material Fees",
+    "amount_text": "$3000",
+    "source_url": "https://austra.edu.au/msf30422-certificate-iii-in-glass-and-glazing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30422",
+    "label": "Total Fees",
+    "amount_text": "$19,500",
+    "source_url": "https://austra.edu.au/msf30422-certificate-iii-in-glass-and-glazing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT40521",
+    "label": "Tuition Fees",
+    "amount_text": "$21,500",
+    "source_url": "https://austra.edu.au/sit40521-certificate-iv-in-kitchen-management/",
+    "section": "Course Overview : Certificate IV in Kitchen Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT40521",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/sit40521-certificate-iv-in-kitchen-management/",
+    "section": "Course Overview : Certificate IV in Kitchen Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT40521",
+    "label": "Material Fees",
+    "amount_text": "$1500 (includes work clothing, a cookery based tool kit and text books)",
+    "source_url": "https://austra.edu.au/sit40521-certificate-iv-in-kitchen-management/",
+    "section": "Course Overview : Certificate IV in Kitchen Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT40521",
+    "label": "Total Course Fee",
+    "amount_text": "$23,500",
+    "source_url": "https://austra.edu.au/sit40521-certificate-iv-in-kitchen-management/",
+    "section": "Course Overview : Certificate IV in Kitchen Management > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT30821",
+    "label": "Tuition Fees",
+    "amount_text": "$15,500",
+    "source_url": "https://austra.edu.au/sit30821-certificate-iii-in-commercial-cookery/",
+    "section": "Course Overview - Certificate III in Commercial Cookery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT30821",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/sit30821-certificate-iii-in-commercial-cookery/",
+    "section": "Course Overview - Certificate III in Commercial Cookery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT30821",
+    "label": "Material Fees",
+    "amount_text": "$1,500 (This will include work clothing, a cookery based tool kit and text books)",
+    "source_url": "https://austra.edu.au/sit30821-certificate-iii-in-commercial-cookery/",
+    "section": "Course Overview - Certificate III in Commercial Cookery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT30821",
+    "label": "Total Course Fee",
+    "amount_text": "$17,500",
+    "source_url": "https://austra.edu.au/sit30821-certificate-iii-in-commercial-cookery/",
+    "section": "Course Overview - Certificate III in Commercial Cookery > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR40226",
+    "label": "Tuition Fees",
+    "amount_text": "$14,500",
+    "source_url": "https://austra.edu.au/certificate-iv-in-automotive-mechanical-diagnosis/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR40226",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/certificate-iv-in-automotive-mechanical-diagnosis/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR40226",
+    "label": "Material Fees",
+    "amount_text": "$1,000 (this includes work clothing, an automotive – based tool kit and textbooks)",
+    "source_url": "https://austra.edu.au/certificate-iv-in-automotive-mechanical-diagnosis/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR40226",
+    "label": "Total Fees",
+    "amount_text": "$16,000",
+    "source_url": "https://austra.edu.au/certificate-iv-in-automotive-mechanical-diagnosis/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30620",
+    "label": "Tuition Fees",
+    "amount_text": "$20,500",
+    "source_url": "https://austra.edu.au/cpc30620-certificate-iii-in-painting-and-decorating/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30620",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc30620-certificate-iii-in-painting-and-decorating/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30620",
+    "label": "Material Fees",
+    "amount_text": "$1500",
+    "source_url": "https://austra.edu.au/cpc30620-certificate-iii-in-painting-and-decorating/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC30620",
+    "label": "Total Course Fee",
+    "amount_text": "$22,500",
+    "source_url": "https://austra.edu.au/cpc30620-certificate-iii-in-painting-and-decorating/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31220",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/cpc31220-certificate-iii-in-wall-and-ceiling-lining/",
+    "section": "Course Overview: Certificate III in Wall and Ceiling Lining > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31220",
+    "label": "Application Fee",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc31220-certificate-iii-in-wall-and-ceiling-lining/",
+    "section": "Course Overview: Certificate III in Wall and Ceiling Lining > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31220",
+    "label": "Material Fees",
+    "amount_text": "$3,000",
+    "source_url": "https://austra.edu.au/cpc31220-certificate-iii-in-wall-and-ceiling-lining/",
+    "section": "Course Overview: Certificate III in Wall and Ceiling Lining > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31220",
+    "label": "Total Course Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc31220-certificate-iii-in-wall-and-ceiling-lining/",
+    "section": "Course Overview: Certificate III in Wall and Ceiling Lining > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT60322",
+    "label": "Tuition Fees",
+    "amount_text": "$22,000",
+    "source_url": "https://austra.edu.au/sit60322-advanced-diploma-of-hospitality-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT60322",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/sit60322-advanced-diploma-of-hospitality-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT60322",
+    "label": "Material Fees",
+    "amount_text": "$1500 (This will include work clothing, a cookery based tool kit and text books)",
+    "source_url": "https://austra.edu.au/sit60322-advanced-diploma-of-hospitality-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "SIT60322",
+    "label": "Total Course Fee",
+    "amount_text": "$24,000",
+    "source_url": "https://austra.edu.au/sit60322-advanced-diploma-of-hospitality-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB40520",
+    "label": "Tuition Fees",
+    "amount_text": "$9,000",
+    "source_url": "https://austra.edu.au/bsb40520-certificate-iv-in-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB40520",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/bsb40520-certificate-iv-in-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB40520",
+    "label": "Material Fees",
+    "amount_text": "$1,000",
+    "source_url": "https://austra.edu.au/bsb40520-certificate-iv-in-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "BSB40520",
+    "label": "Total Fees",
+    "amount_text": "$10,500",
+    "source_url": "https://austra.edu.au/bsb40520-certificate-iv-in-leadership-and-management/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31420",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/cpc31420-certificate-iii-in-construction-waterproofing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31420",
+    "label": "Enrolment Fee",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc31420-certificate-iii-in-construction-waterproofing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31420",
+    "label": "Material Fees",
+    "amount_text": "$3000",
+    "source_url": "https://austra.edu.au/cpc31420-certificate-iii-in-construction-waterproofing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC31420",
+    "label": "Total Course Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc31420-certificate-iii-in-construction-waterproofing/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC50220",
+    "label": "Tuition Fees",
+    "amount_text": "$23,000",
+    "source_url": "https://austra.edu.au/cpc50220-diploma-of-building-and-construction-building/",
+    "section": "Course Overview: Diploma of Building and Construction (Building) > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC50220",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc50220-diploma-of-building-and-construction-building/",
+    "section": "Course Overview: Diploma of Building and Construction (Building) > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC50220",
+    "label": "Material Fees",
+    "amount_text": "$1500",
+    "source_url": "https://austra.edu.au/cpc50220-diploma-of-building-and-construction-building/",
+    "section": "Course Overview: Diploma of Building and Construction (Building) > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC50220",
+    "label": "Total Course Fee",
+    "amount_text": "$25,000",
+    "source_url": "https://austra.edu.au/cpc50220-diploma-of-building-and-construction-building/",
+    "section": "Course Overview: Diploma of Building and Construction (Building) > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC33020",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/cpc33020-certificate-iii-in-bricklaying-and-blocklaying/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC33020",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/cpc33020-certificate-iii-in-bricklaying-and-blocklaying/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC33020",
+    "label": "Material Fees",
+    "amount_text": "$3,000",
+    "source_url": "https://austra.edu.au/cpc33020-certificate-iii-in-bricklaying-and-blocklaying/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "CPC33020",
+    "label": "Total Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/cpc33020-certificate-iii-in-bricklaying-and-blocklaying/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MEM31925",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/mem31925-certificate-iii-in-engineering-fabrication-trade/",
+    "section": "Course Overview: Certificate III in Engineering Fabrication Trade > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MEM31925",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/mem31925-certificate-iii-in-engineering-fabrication-trade/",
+    "section": "Course Overview: Certificate III in Engineering Fabrication Trade > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MEM31925",
+    "label": "Material Fees",
+    "amount_text": "$3000",
+    "source_url": "https://austra.edu.au/mem31925-certificate-iii-in-engineering-fabrication-trade/",
+    "section": "Course Overview: Certificate III in Engineering Fabrication Trade > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MEM31925",
+    "label": "Total Course Fee",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/mem31925-certificate-iii-in-engineering-fabrication-trade/",
+    "section": "Course Overview: Certificate III in Engineering Fabrication Trade > Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR30620",
+    "label": "Tuition Fees",
+    "amount_text": "$14500",
+    "source_url": "https://austra.edu.au/aur30620-certificate-iii-in-light-vehicle-mechanical-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR30620",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/aur30620-certificate-iii-in-light-vehicle-mechanical-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR30620",
+    "label": "Material Fees",
+    "amount_text": "$1000 (This include work clothing, an automotive based tool kit and textbooks)",
+    "source_url": "https://austra.edu.au/aur30620-certificate-iii-in-light-vehicle-mechanical-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "AUR30620",
+    "label": "Total Fees",
+    "amount_text": "$16000",
+    "source_url": "https://austra.edu.au/aur30620-certificate-iii-in-light-vehicle-mechanical-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30322",
+    "label": "Tuition Fees",
+    "amount_text": "$16,500",
+    "source_url": "https://austra.edu.au/msf30322-certificate-iii-in-cabinet-making-and-timber-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30322",
+    "label": "Application Fees",
+    "amount_text": "$500",
+    "source_url": "https://austra.edu.au/msf30322-certificate-iii-in-cabinet-making-and-timber-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30322",
+    "label": "Material Fees",
+    "amount_text": "$3000",
+    "source_url": "https://austra.edu.au/msf30322-certificate-iii-in-cabinet-making-and-timber-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  },
+  {
+    "course_code": "MSF30322",
+    "label": "Total Fees",
+    "amount_text": "$20,000",
+    "source_url": "https://austra.edu.au/msf30322-certificate-iii-in-cabinet-making-and-timber-technology/",
+    "section": "Fees",
+    "review_status": "pending",
+    "currency": "AUD"
+  }
+]
