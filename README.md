@@ -1,6 +1,6 @@
 # Amy — Austra study assistant
 
-> New to the project? Read the [plain-English website launch guide](docs/WEBSITE_LAUNCH_GUIDE.md) for what Amy does, what Austra needs to provide, costs and the steps to go live.
+> New to the project? Start with the [plain-English App Overview](docs/APP_OVERVIEW.md): Amy's purpose, features, data, technology and how it works. For website integration, see the [Website Launch Guide](docs/WEBSITE_LAUNCH_GUIDE.md).
 
 An English chat interface for Austra College's public website. React + Express run locally, Supabase stores vectors, Ollama **BGE-M3** generates embeddings, and Intern AI **deepseek-v4-flash-0731** handles query rewriting, relevance reranking and streamed answers.
 
