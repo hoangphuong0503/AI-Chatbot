@@ -12,7 +12,7 @@ async function ask(name:string,question:string,history:{role:string;content:stri
     body:JSON.stringify({question,history}),signal:AbortSignal.timeout(180_000)});
   const result=await response.json();
   assert.equal(response.status,200,JSON.stringify(result));
-  assert.ok(result.retrieval_stats.vector_candidates>0,'Vector candidates must be present');
+  if(!result.retrieval.startsWith('structured-'))assert.ok(result.retrieval_stats.vector_candidates>0,'Hybrid vector candidates must be present');
   results.push({name,question,duration_ms:Date.now()-start,...result});
   return result;
 }
@@ -22,7 +22,7 @@ try{
   assert.match(fees.answer,/15[,. ]?500/);assert.match(fees.answer,/17[,. ]?500/);
   assert.match(fees.answer,/\[\d+\]/);
   assert.ok(fees.sources.some((s:{url:string})=>s.url.includes('sit30821')));
-  assert.ok(fees.retrieval_stats.bm25_candidates>0);
+  assert.equal(fees.retrieval,'structured-fees');
   const followup=await ask('followup_duration','How long does that course take?',[
     {role:'user',content:firstQuestion},{role:'assistant',content:fees.answer}]);
   assert.match(followup.answer,/52\s*weeks/i);

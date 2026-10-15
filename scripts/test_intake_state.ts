@@ -6,7 +6,7 @@ const result=await response.json();assert.equal(response.status,200,JSON.stringi
 assert.match(result.answer,/16\s+(?:Nov|November)/i);
 assert.doesNotMatch(result.answer,/\b2\s+(?:Nov|November)/i);
 assert.ok(result.excerpts.length);
-assert.ok(result.retrieval_stats.vector_candidates>0);
+assert.equal(result.retrieval,'structured-intake');
 assert.ok(result.excerpts.every((s:string)=>s.includes('SA > MSF30422')));
 await mkdir('data/test-results',{recursive:true});
 await writeFile('data/test-results/intake-state.json',JSON.stringify({tested_at:new Date().toISOString(),passed:true,question,...result},null,2));
