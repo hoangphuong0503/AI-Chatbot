@@ -17,4 +17,9 @@ for(const c of evaluationCases)test(`Evaluation: ${c.name}`,()=>{
     assert.equal(plan.courseFilter,null,'College-wide policy must not inherit a course filter');
     assert.ok(new BM25Index(corpus).search(plan.query,{categories:plan.categories,courseCode:plan.courseFilter}).some(h=>h.category==='policy'),'Policy evidence must survive filtering');
   }
+  if(c.name==='payment plan uses evidence'){
+    assert.equal(plan.courseFilter,null,'College-wide payment evidence must survive an explicit course code');
+    const hits=new BM25Index(corpus).search(plan.query,{categories:plan.categories,courseCode:plan.courseFilter,limit:30});
+    assert.ok(hits.some(h=>h.category==='college'&&/weekly.*fortnightly.*monthly/is.test(h.content)), 'Retrieve the college payment options');
+  }
 });

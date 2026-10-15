@@ -67,9 +67,14 @@ npm run ingest
 npm test
 npm run build
 npm run evaluate
+npx tsx scripts/evaluate_updated_data.ts
 npm run test:stream
 ```
 
 `npm test` runs offline regression tests, including 40 realistic evaluation cases, actual SQL migrations in PGlite/pgvector, ranking, policy scope, state/course switches, fee arithmetic, missing years, service outage/recovery and stream interruption/UTF-8 parsing. It needs the prepared corpus, not live credentials.
 
 `npm run evaluate` runs those 40 questions through the running local API with the configured real providers, pacing requests to respect the local limit. Reports are written to `data/test-results/evaluation.json`. These assertions check specified facts/sources/abstentions; passing is not a guarantee that every generated sentence is correct. `npm run test:stream` separately verifies incremental upstream model tokens and records first-token/total latency. Live tests consume the configured provider's quota. The 15-requests/minute app limiter is process-local and is not a substitute for production abuse protection.
+
+`scripts/evaluate_updated_data.ts` adds 23 live course, fee and form cases, including OCR field/version checks and refusal to invent filled agent records. `--retry-failed` preserves successful cases and records previous failed attempts when retrying. `scripts/retest_payment_plans.ts` checks three course-specific payment questions and records the original baseline response alongside its correction. Once reports are complete, `python scripts/summarize_chat_evaluation.py` writes a combined local review with answers, sources and latency. Generated reports are ignored by Git.
+
+Payment-plan and instalment questions retain college-wide sources even when a course is named. The course identity remains available to the answer model, and ordinary fee questions still use their course filter. This avoids unsupported abstention caused by dropping the college's weekly, fortnightly and monthly payment information.

@@ -38,7 +38,7 @@ export const evaluationCases:EvalCase[]=[
   {name:'campus address',question:'What is the Adelaide campus address?',intent:'campus'},
   {name:'campuses list',question:'Where are the Austra campuses?',intent:'campus'},
   {name:'comparison scope',question:'Compare tuition fees for SIT30821 and CPC30620',intent:'fees',course:null},
-  {name:'payment plan uses evidence',question:'Does SIT30821 offer a payment plan?',intent:'general'},
+  {name:'payment plan uses evidence',question:'Does SIT30821 offer a payment plan?',intent:'general',contains:['weekly','fortnightly','monthly']},
   {name:'unrelated price',question:'What is the Bitcoin price right now?',intent:'fees',course:null},
   {name:'unknown subject',question:'Explain quantum superconductivity',intent:'general',course:null},
   {name:'no guessed intake course',question:'Intake dates for XYZ99999 in SA',intent:'intake',course:null,state:'SA',contains:['Which course'],structured:true},

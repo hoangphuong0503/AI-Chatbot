@@ -38,9 +38,11 @@ export function planQuestion(question:string,history:History,corpus:ChunkRecord[
   const inheritedState=[...users].reverse().map(intakeState).find(Boolean)||null;
   const state=intent==='intake'?(explicitState||(!multiState?inheritedState:null)):null;
   const usedHistory=Boolean((!explicitCourse&&course)||(!explicitState&&state)||detectIntent(question)!==intent);
-  const text=`${expandQuery(question)}${course&&!question.toUpperCase().includes(course)?` ${course}`:''}${state?` State ${state}`:''}${intent==='intake'?' intake schedule':''}`;
-  const categories=intent==='policy'?['policy','college']:intent==='intake'?['intake']:categoryFilter(text);
-  const courseFilterCode=intent==='policy'||intent==='campus'?null:course;
+  // Payment arrangements may be college-wide even when the question names a course.
+  const paymentArrangements=/\b(payment plans?|instalments?|installments?)\b|\bpay\b.{0,80}\b(weekly|fortnightly|monthly)\b/i.test(question);
+  const text=`${expandQuery(question)}${course&&!question.toUpperCase().includes(course)?` ${course}`:''}${state?` State ${state}`:''}${intent==='intake'?' intake schedule':''}${paymentArrangements?' payment plan instalments':''}`;
+  const categories=paymentArrangements?['policy','college','course']:intent==='policy'?['policy','college']:intent==='intake'?['intake']:categoryFilter(text);
+  const courseFilterCode=intent==='policy'||intent==='campus'||paymentArrangements?null:course;
   return {intent,course,state,categories,courseFilter:courseFilterCode,usedHistory,contextual,multiState,query:text,explicitCodes};
 }
 export type QuestionPlan=ReturnType<typeof planQuestion>;
