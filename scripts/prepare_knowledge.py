@@ -279,6 +279,10 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
     source = json.loads((ROOT / 'data/austra_crawl/knowledge_base.json').read_text(encoding='utf-8'))
     raws = source['documents']
+    overlay_path = ROOT / 'data/source_updates/overrides.json'
+    if overlay_path.exists():
+        overrides = {d['url']: d for d in json.loads(overlay_path.read_text(encoding='utf-8'))}
+        raws = [{**d, **overrides.get(d['url'], {})} for d in raws]
     decisions, candidates = [], []
     for raw in raws:
         state, reason, category = classify(raw)
@@ -298,14 +302,14 @@ def main():
     documents, chunks, fees, review = [], [], [], []
     seen_raw, seen_text = {}, {}
     for raw, decision in sorted(candidates, key=lambda pair: (pair[1]['category'] == 'blog', len(pair[0]['url']), pair[0]['url'])):
-        if raw['url'] in superseded or 'educert.net' in raw['url']:
+        if raw['url'] in superseded or ('educert.net' in raw['url'] and not raw.get('audited_legacy_form')):
             decision.update(decision='excluded', reason='legacy_or_newer_policy_candidate_exists')
             continue
         if raw.get('sha256') in seen_raw:
             decision.update(decision='excluded', reason='identical_raw_content', duplicate_of=seen_raw[raw['sha256']]['source_url'])
             seen_raw[raw['sha256']]['metadata']['aliases'].append(raw['url'])
             continue
-        sections = html_sections(raw) if raw['kind'] == 'html' else pdf_sections(raw)
+        sections = raw.get('reviewed_sections') or (html_sections(raw) if raw['kind'] == 'html' else pdf_sections(raw))
         title = clean(raw.get('title') or unquote(urlsplit(raw['url']).path.rsplit('/', 1)[-1]).replace('.pdf', '').replace('-', ' '))
         code = COURSE_RE.search(unquote(raw['url']))
         if not code and decision['category'] == 'course':
@@ -321,7 +325,7 @@ def main():
             decision.update(decision='excluded', reason='identical_cleaned_content', duplicate_of=seen_text[text_hash]['source_url'])
             seen_text[text_hash]['metadata']['aliases'].append(raw['url'])
             continue
-        flags = []
+        flags = list(raw.get('additional_review_flags', []))
         if raw.get('needs_ocr'):
             flags.append('some_pdf_pages_have_little_or_no_text')
         if decision['category'] == 'intake':

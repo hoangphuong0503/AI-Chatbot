@@ -11,3 +11,6 @@ data/embeddings/
 data/austra_crawl/
 data/test-results/
 output/
+data/coverage_audit/
+data/source_updates/*.html
+data/source_updates/*.png

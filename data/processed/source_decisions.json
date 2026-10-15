@@ -287,8 +287,9 @@
   {
     "url": "https://austra.edu.au/change-of-details-form/",
     "category": "form",
-    "decision": "excluded",
-    "reason": "insufficient_readable_content"
+    "decision": "included",
+    "reason": null,
+    "document_id": "baa821a3-7d14-5e9d-8d05-3a51c61dc117"
   },
   {
     "url": "https://austra.edu.au/checkout/",
@@ -754,8 +755,9 @@
   {
     "url": "https://austra.edu.au/policies-forms/",
     "category": "college",
-    "decision": "excluded",
-    "reason": "insufficient_readable_content"
+    "decision": "included",
+    "reason": null,
+    "document_id": "7c0bd1b2-8925-5def-9239-705986e57916"
   },
   {
     "url": "https://austra.edu.au/policies/",
@@ -1097,9 +1099,9 @@
   {
     "url": "https://austra.edu.au/trade-courses-in-australia/",
     "category": "blog",
-    "decision": "included",
-    "reason": null,
-    "document_id": "29028487-ee54-52fe-b4df-ef3137419be5"
+    "decision": "excluded",
+    "reason": "identical_raw_content",
+    "duplicate_of": "https://austra.edu.au/trade-courses-in-australia/"
   },
   {
     "url": "https://austra.edu.au/user-account/",
@@ -1403,8 +1405,9 @@
   {
     "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Agent-Review-Form.pdf",
     "category": "form",
-    "decision": "excluded",
-    "reason": "legacy_or_newer_policy_candidate_exists"
+    "decision": "included",
+    "reason": null,
+    "document_id": "9962bae7-efc6-58d0-ae7c-305d7b2fb443"
   },
   {
     "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/COVID-19-Support-for-International-Students.pdf",
@@ -1415,8 +1418,9 @@
   {
     "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Education-Agent-Performance-Review-Form.pdf",
     "category": "form",
-    "decision": "excluded",
-    "reason": "legacy_or_newer_policy_candidate_exists"
+    "decision": "included",
+    "reason": null,
+    "document_id": "7ce649b0-503c-5b51-9a5b-9fc7ac94ac4c"
   },
   {
     "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/International-Student-Application.pdf",

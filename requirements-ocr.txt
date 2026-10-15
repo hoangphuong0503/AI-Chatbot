@@ -1,0 +1,5 @@
+-r requirements.txt
+PyMuPDF>=1.24,<2
+rapidocr_onnxruntime==1.4.4
+# 1.31 crashes at import on this Windows machine; use the verified runtime.
+onnxruntime==1.20.1

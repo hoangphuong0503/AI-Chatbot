@@ -37,9 +37,13 @@ Responses include per-stage timings: rewrite, BM25, embedding, vector query, rer
 
 ## Data and embeddings
 
-The repository includes the curated public snapshot in `data/processed`: 111 documents and 2,149 chunks. Raw downloaded HTML/PDFs, API credentials, embedding caches and test response logs are excluded from Git. Archive paths in metadata refer to the original local crawl and are not included.
+The repository includes the curated public snapshot in `data/processed`: 114 documents and 2,117 chunks. Raw downloaded HTML/PDFs, API credentials, embedding caches and test response logs are excluded from Git. Archive paths in metadata refer to the original local crawl and are not included.
 
-Chunks preserve headings, course identity, HTML fee tables and PDF page provenance. Intake extraction preserves VIC/NSW/SA/WA tab labels, variant headings and individual date pairs. Sources still require staff review: some PDFs need OCR, document versions rely on filename/upload-path heuristics, and fee/material inclusions can conflict. Original raw files are retained locally for review.
+Chunks preserve headings, course identity, HTML fee tables and PDF page provenance. Intake extraction preserves VIC/NSW/SA/WA tab labels, variant headings and individual date pairs. Sources still require staff review: document versions rely on filename/upload-path heuristics, and fee/material inclusions can conflict. Original raw files are retained locally for review.
+
+The 15 October audit refreshed the redirected trade courses overview, recovered the short Change of Details instruction, added the legacy Policies & Forms directory and two linked agent review forms. The scanned performance form was OCRed locally and checked against both rendered pages. Legacy forms describe blank fields, not completed evaluations or current policy approval. Twelve thin pages remain excluded because they expose only titles, broken shortcodes or no distinct form content. Five original failed URLs remain unavailable; this update does not claim complete coverage of text inside every website image.
+
+`data/source_updates/overrides.json` is applied over the immutable archive during preparation. It retains source URLs, hashes, page numbers and review flags. `thin_pages_review.json` records all 14 dispositions; `agent_performance_ocr.json` retains raw OCR boxes/confidence and reviewed text. Local raw HTML/rendered PNG evidence is excluded from Git. To repeat the refresh with the original crawl present, install `requirements-ocr.txt`, run `python scripts/refresh_reviewed_sources.py`, then prepare, verify and ingest. Repeating the refresh performs new public HTTP requests and local OCR.
 
 BGE-M3 returns 1024 native dimensions. Normalized vectors are padded with 512 zeros for the existing 1536-dimensional Supabase column; cosine similarity is preserved. BGE-M3 receives raw text with truncation disabled. Model-specific cache keys prevent mixing vector spaces. Gemini/OpenAI are optional embedding providers with separate credentials, but switching providers requires re-embedding the entire corpus. Chat remains on the separate DeepSeek API.
 
@@ -53,6 +57,7 @@ python scripts/crawl_austra.py
 python scripts/collect_linked_external_pdfs.py
 python scripts/prepare_knowledge.py
 python scripts/verify_processed.py
+python scripts/verify_source_updates.py
 npm run ingest
 ```
 

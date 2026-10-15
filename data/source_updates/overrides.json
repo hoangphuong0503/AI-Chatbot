@@ -1,0 +1,209 @@
+[
+  {
+    "url": "https://austra.edu.au/agent-review-form/",
+    "raw_file": "data/source_updates/37e5a0cda79b558f7ed9.html",
+    "final_url": "https://austra.edu.au/agent-review-form/",
+    "canonical_url": "https://austra.edu.au/agent-review-form/",
+    "title": "Agent Review Form - Austra College",
+    "sha256": "65be69adf2099606261cc72dd737d2c36c98ed5845172e1679f60f91bfe1698b",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/application-leave-form/",
+    "raw_file": "data/source_updates/d9141197b71b34865338.html",
+    "final_url": "https://austra.edu.au/application-leave-form/",
+    "canonical_url": "https://austra.edu.au/application-leave-form/",
+    "title": "Application Leave Form - Austra College",
+    "sha256": "8fe08f02dcd50e6d20d209e4f8aa2fcd3a0cc2d643ba69b86f236fe762b8dd41",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/change-of-details-form/",
+    "raw_file": "data/source_updates/e91b3164dee2f9d23648.html",
+    "final_url": "https://austra.edu.au/change-of-details-form/",
+    "canonical_url": "https://austra.edu.au/change-of-details-form/",
+    "title": "Change of Details Form - Austra College",
+    "sha256": "1fd759ec588ec8e062bcc598df2a97cba6dd52daed47324d20fbddca1ac67e47",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00",
+    "reviewed_sections": [
+      {
+        "heading": "Change of Details Form",
+        "blocks": [
+          {
+            "kind": "text",
+            "text": "The public Change of Details Form page states: \"Must be completed by each current student every 6 months or when a change occurs\". The page does not expose distinct form fields or a downloadable PDF in its public HTML. Do not invent required fields or submission steps."
+          }
+        ],
+        "page_start": null,
+        "page_end": null
+      }
+    ],
+    "additional_review_flags": [
+      "short_public_instruction_form_fields_not_available"
+    ]
+  },
+  {
+    "url": "https://austra.edu.au/complaint-grievance-or-appeal-form/",
+    "raw_file": "data/source_updates/8388c59b1e7e5d3f4d93.html",
+    "final_url": "https://austra.edu.au/complaint-grievance-or-appeal-form/",
+    "canonical_url": "https://austra.edu.au/complaint-grievance-or-appeal-form/",
+    "title": "Complaint, Grievance or Appeal Form - Austra College",
+    "sha256": "71ac8c106198333a0f997ccba561540bb95a77d9f4a4518a819bc39bdd8b83fc",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/course-transfer-request-form/",
+    "raw_file": "data/source_updates/98e16a10b61a15d68435.html",
+    "final_url": "https://austra.edu.au/course-transfer-request-form/",
+    "canonical_url": "https://austra.edu.au/course-transfer-request-form/",
+    "title": "Course Transfer Request Form - Austra College",
+    "sha256": "c33eea6ccc1f183dc019196d8285807568bff6a8d9c4ea6f6d0e488e4e5278cc",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/courses/",
+    "raw_file": "data/source_updates/61d97b04a2304b45f50d.html",
+    "final_url": "https://austra.edu.au/trade-courses-in-australia/",
+    "canonical_url": "https://austra.edu.au/trade-courses-in-australia/",
+    "title": "Trade Courses in Australia & VET Courses | Austra College",
+    "sha256": "07f3589d6e363c6c9127efaf9ccf23529ff4e511e176128661f63ba4aa72fb74",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/credit-transfer-form/",
+    "raw_file": "data/source_updates/9d76c7057a6b5f9218b9.html",
+    "final_url": "https://austra.edu.au/credit-transfer-form/",
+    "canonical_url": "https://austra.edu.au/credit-transfer-form/",
+    "title": "Credit Transfer Form - Austra College",
+    "sha256": "c3a01548d4c001a0e63e4528a6c938c0b0b58c87bd36d9d42023e7764925a8b1",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/critical-incident-report-form/",
+    "raw_file": "data/source_updates/8057c7857bf024821174.html",
+    "final_url": "https://austra.edu.au/critical-incident-report-form/",
+    "canonical_url": "https://austra.edu.au/critical-incident-report-form/",
+    "title": "Critical Incident Report Form - Austra College",
+    "sha256": "74ea6ad8a91f443b69e50f83429e8862b455877f1fe27e7cc79217c679bc46b8",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/deferral-suspension-or-cancellation-request-form/",
+    "raw_file": "data/source_updates/1de4518e08eeb827fdcf.html",
+    "final_url": "https://austra.edu.au/deferral-suspension-or-cancellation-request-form/",
+    "canonical_url": "https://austra.edu.au/deferral-suspension-or-cancellation-request-form/",
+    "title": "Deferral, Suspension or Cancellation Request Form - Austra College",
+    "sha256": "59a56097c031fcc4335c8bc76869d0c96fd54de60c681b92799a40e19a85ff1e",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/discontinuation-deferring-of-studies-form/",
+    "raw_file": "data/source_updates/6ed3dfa9f74b9ee38bab.html",
+    "final_url": "https://austra.edu.au/discontinuation-deferring-of-studies-form/",
+    "canonical_url": "https://austra.edu.au/discontinuation-deferring-of-studies-form/",
+    "title": "Discontinuation/Deferring of Studies Form - Austra College",
+    "sha256": "a79870fc49d1b606b13bff5905421ed66488af8612e39e5542c0e7807c830552",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/education-agent-information-update-form/",
+    "raw_file": "data/source_updates/339bfc75f19b860468f2.html",
+    "final_url": "https://austra.edu.au/education-agent-information-update-form/",
+    "canonical_url": "https://austra.edu.au/education-agent-information-update-form/",
+    "title": "Education Agent Information Update Form - Austra College",
+    "sha256": "298b191076d4dcb8987c0365feeab95c0c32a8f90c958d47c95c9f31af26643b",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/education-agent-performance-review-form/",
+    "raw_file": "data/source_updates/30c51d7b487f4c00cb92.html",
+    "final_url": "https://austra.edu.au/education-agent-performance-review-form/",
+    "canonical_url": "https://austra.edu.au/education-agent-performance-review-form/",
+    "title": "Education Agent Performance Review Form - Austra College",
+    "sha256": "bad0ede3c976277f2cdb9f87a08b1a9a70169da17f47d323055ecec20ec810d8",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/hazard-incident-report-form-2/",
+    "raw_file": "data/source_updates/5775fdaea40f78780a30.html",
+    "final_url": "https://austra.edu.au/hazard-incident-report-form-2/",
+    "canonical_url": "https://austra.edu.au/hazard-incident-report-form-2/",
+    "title": "Hazard/Incident Report Form - Austra College",
+    "sha256": "837feda10c48aa007ba3697519ab9324385919708542e0583a89867f3ed3af4d",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/hazard-incident-report-form/",
+    "raw_file": "data/source_updates/161a2a416455965e3778.html",
+    "final_url": "https://austra.edu.au/hazard-incident-report-form/",
+    "canonical_url": "https://austra.edu.au/hazard-incident-report-form/",
+    "title": "Hazard / Incident Report Form - Austra College",
+    "sha256": "722503f2adbec1418f7806363cbb0967cde0bcbfb590d57a727fd8d2d99799c4",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00"
+  },
+  {
+    "url": "https://austra.edu.au/policies-forms/",
+    "raw_file": "data/source_updates/689a47a3351853064b9d.html",
+    "final_url": "https://austra.edu.au/policies-forms/",
+    "canonical_url": "https://austra.edu.au/policies-forms/",
+    "title": "Policies & Forms - Austra College",
+    "sha256": "d467152fbd82f7da985a442bb056b666ce7dcfcd888cbd18756d0221d022449b",
+    "fetched_at": "2026-10-15T02:52:28.555570+00:00",
+    "reviewed_sections": [
+      {
+        "heading": "Legacy policies and forms directory",
+        "blocks": [
+          {
+            "kind": "text",
+            "text": "This public directory links legacy documents. Links do not establish that these are current approved policies. For current policy rules use newer Austra policy sources; confirm form versions with admissions.\nStudent Handbook: https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Handbook.pdf\nRefund policy: https://educert.net/austracollegeweb/wp-content/uploads/2024/01/Refund-Policy.pdf\nInternational Student Application: https://educert.net/austracollegeweb/wp-content/uploads/2023/12/International-Student-Application.pdf\nUSI Student Authorisation: https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Authorisation.pdf\nStudent Code of Conduct: https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Code-of-Conduct.pdf\nCOVID-19 Support for International Students: https://educert.net/austracollegeweb/wp-content/uploads/2023/12/COVID-19-Support-for-International-Students.pdf\nStudent Plagiarism Policy: https://educert.net/austracollegeweb/wp-content/uploads/2024/02/Student-Plagiarism-Policy.pdf\nAgent Review Form: https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Agent-Review-Form.pdf\nEducation Agent Performance Review Form: https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Education-Agent-Performance-Review-Form.pdf"
+          }
+        ],
+        "page_start": null,
+        "page_end": null
+      }
+    ],
+    "additional_review_flags": [
+      "legacy_directory_links_not_current_policy_approval"
+    ]
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Agent-Review-Form.pdf",
+    "audited_legacy_form": true,
+    "additional_review_flags": [
+      "legacy_2023_form_confirm_current_version_with_college"
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "text": "Legacy linked blank form; confirm the current version with the college. This is not a completed agent evaluation.\nPage 1 of 3  \nAgent Review Form v3.0  \n© Adelaide Educators Pty Ltd ABN 84136893831 \nRTO ID: 40336  CRICOS ID: 03187D \nAgent Review Form  \nto be completed yearly \n \nAgent Name:  Review Date:  \nACTE representative Name:  Position:  \n \nReview Points \nACTE Observations \nACTE representative will comment on the activities of the \nAgent with regards to the review points \nAgent Observations \nThe Agent may comment on ACTE representative \nobservations, including Agent  considerations of ACTE  \nsupport \nActions for improvement \nIn the event  where an issue of concern is  identified, (e.g. non-\ncompliance with the VET Quality Framework , ESOS or contrac tual \nobligations, lack of ACTE  support, etc),  then both the Agent  and \nACTE representative will agree on implementing a corrective action \n1 \nThe number of \nstudent placements \n(whether to target or not) \n   \n2 The average of \nstudent fees paid \n   \n3 \nThe % of early \nterminations, \nexemptions and RPL  \n   \n4 The extent of \ndiscounting    "
+      },
+      {
+        "page": 2,
+        "text": "Legacy linked blank form; confirm the current version with the college. This is not a completed agent evaluation.\nPage 2 of 3  \nAgent Review Form v3.0  \n© Adelaide Educators Pty Ltd ABN 84136893831 \nRTO ID: 40336  CRICOS ID: 03187D \nReview Points \nACTE Observations \nACTE representative will comment on the activities of the \nAgent with regards to the review points \nAgent Observations \nThe Agent may comment on ACTE representative \nobservations, including Agent  considerations of ACTE  \nsupport \nActions for improvement \nIn the event  where an issue of concern is  identified, (e.g. non-\ncompliance with the VET Quality Framework , ESOS or contrac tual \nobligations, lack of ACTE  support, etc),  then both the Agent  and \nACTE representative will agree on implementing a corrective action \n5 \nThe number of \ncomplaints against the \nAgent \n   \n6 \nEvidence of non– \ncompliant \nrepresentational \nactivities \n   \n7 Evidence of contract \nbreaches    \n8 \nEvidence of Agent \ninaction of corrective \naction \n   \n9 \nAttitude of Agent \ntowards the review \nprocess, international \nstudents and \ncompliant activities \n   \n "
+      },
+      {
+        "page": 3,
+        "text": "Legacy linked blank form; confirm the current version with the college. This is not a completed agent evaluation.\nPage 3 of 3  \nAgent Review Form v3.0  \n© Adelaide Educators Pty Ltd ABN 84136893831 \nRTO ID: 40336  CRICOS ID: 03187D \nAgreed Recommendations \n renew Agent’s contract \n \n terminate Agent’s contract \nReason: \nAgreed Corrective \nActions:  \nOther Comments:  \nDate of next review:  \n \n \nAgent Signature:  Date:  \nACTE Representative \nSignature:  Date:  \n "
+      }
+    ]
+  },
+  {
+    "url": "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Education-Agent-Performance-Review-Form.pdf",
+    "audited_legacy_form": true,
+    "additional_review_flags": [
+      "legacy_2023_form_confirm_current_version_with_college"
+    ],
+    "pages": [
+      {
+        "page": 1,
+        "text": "Legacy blank form v1.0 (2023); confirm the current version with the college. Describes fields and rating options, not a completed agent evaluation.\nEducation Agent Performance Review Form\nEducation Agent\nName:\nLocation of Education\nAgent:\nReport Period:\nNumber of students provided by the education agent in the period:\nNumber of students provided by the education agent who have been reported to\nDepartment of Home Affairs in the period:\nHave the Institute taken any action against the education agent? (Refer to the agent file)\nYes\nNo\nIf YES, please provide\ndetails:\nOverall student satisfaction with agent (Refer to the survey results).\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nResponsiveness of the agent to communication from Institute.\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nThe education agent's level of understanding of the ESOS Act and Australian visa regulations is:\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nThe education agent is reliable and ethical.\nYes\nNo\nPage 1 of 2\nEducationAgentPerformanceReviewFormv1.0\nAUSTRA\n?AdelaideEducatorsPtyLtd ABN84136893831\nRTOCODE:40336CRICOS:03187D"
+      },
+      {
+        "page": 2,
+        "text": "Legacy blank form v1.0 (2023); confirm the current version with the college. Describes fields and rating options, not a completed agent evaluation.\nAdditional comments:\nWhat is the quality of the applications submitted by the education agent?\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nThe education agent's application to enrolment conversation rate is:\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nCompiled By:\nSignature:\nDate\nReviewed By:\nSignature:\nSIGN\nDate\nComments:\nVersion Control\nDATE\nCOMMENT/ACTION\nVERSION\n04/09/2023\nInitial document - Transfer from ACTE to AUSTRA COLLEGE\nv1.0\nPage 2 of 2\nEducationAgentPerformanceReviewFormv1.0\nAUSTRA\nAdelaideEducatorsPtyLtdABN84136893831\nRTOCODE:40336CRICOS:03187D"
+      }
+    ],
+    "needs_ocr": false,
+    "text": "Legacy blank form v1.0 (2023); confirm the current version with the college. Describes fields and rating options, not a completed agent evaluation.\nEducation Agent Performance Review Form\nEducation Agent\nName:\nLocation of Education\nAgent:\nReport Period:\nNumber of students provided by the education agent in the period:\nNumber of students provided by the education agent who have been reported to\nDepartment of Home Affairs in the period:\nHave the Institute taken any action against the education agent? (Refer to the agent file)\nYes\nNo\nIf YES, please provide\ndetails:\nOverall student satisfaction with agent (Refer to the survey results).\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nResponsiveness of the agent to communication from Institute.\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nThe education agent's level of understanding of the ESOS Act and Australian visa regulations is:\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nThe education agent is reliable and ethical.\nYes\nNo\nPage 1 of 2\nEducationAgentPerformanceReviewFormv1.0\nAUSTRA\n?AdelaideEducatorsPtyLtd ABN84136893831\nRTOCODE:40336CRICOS:03187D\nLegacy blank form v1.0 (2023); confirm the current version with the college. Describes fields and rating options, not a completed agent evaluation.\nAdditional comments:\nWhat is the quality of the applications submitted by the education agent?\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nThe education agent's application to enrolment conversation rate is:\nExcellent\nVery Good\nGood\nAverage\nBelow Average\nAdditional comments:\nCompiled By:\nSignature:\nDate\nReviewed By:\nSignature:\nSIGN\nDate\nComments:\nVersion Control\nDATE\nCOMMENT/ACTION\nVERSION\n04/09/2023\nInitial document - Transfer from ACTE to AUSTRA COLLEGE\nv1.0\nPage 2 of 2\nEducationAgentPerformanceReviewFormv1.0\nAUSTRA\nAdelaideEducatorsPtyLtdABN84136893831\nRTOCODE:40336CRICOS:03187D"
+  }
+]

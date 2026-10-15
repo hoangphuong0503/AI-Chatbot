@@ -1,0 +1,124 @@
+[
+  {
+    "url": "https://austra.edu.au/agent-review-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "[contact-form-7 id=”d8be4e5″ title=”Agent Review Form”]",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/application-leave-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Application Leave Form",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/change-of-details-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Change of Details Form Must be completed by each current student every 6 months or when a change occurs",
+    "pdf_links": {},
+    "decision": "include_instruction",
+    "reason": "Unique student update frequency instruction is present despite short page text."
+  },
+  {
+    "url": "https://austra.edu.au/complaint-grievance-or-appeal-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/course-transfer-request-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Course Transfer Request Form",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/credit-transfer-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Credit Transfer Form",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/critical-incident-report-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Critical Incident Report Form",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/deferral-suspension-or-cancellation-request-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Deferral, Suspension or Cancellation Request Form",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/discontinuation-deferring-of-studies-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Discontinuation/Deferring of Studies Form",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/education-agent-information-update-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "Education Agent Information Update Form",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/education-agent-performance-review-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "[contact-form-7 id=”a84c01c” title=”Education Agent Performance Review Form”]",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/hazard-incident-report-form-2/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "[contact-form-7 id=”c37727e” title=”Hazard/Incident Report Form”]",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/hazard-incident-report-form/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "",
+    "pdf_links": {},
+    "decision": "retain_exclusion",
+    "reason": "No distinct form fields or downloadable PDF; generic enquiry widget is not this named form."
+  },
+  {
+    "url": "https://austra.edu.au/policies-forms/",
+    "checked_at": "2026-10-15T02:52:28.555570+00:00",
+    "main_text": "For Students Student Handbook Refund policy Change of Details Form Privacy Policy International Student Application Complaint Grievance Appeal Form Hazard Incident Report Form USI Student Authorisation Student Code of Conduct COVID-19 Support for International Students Student Feedback Form Student Plagiarism Policy Create Student Fee Refund Form Application Leave Form Discontinuation of Studies Form For Agents Agent Application Form Agent Review Form Education Agent Performance Review Form",
+    "pdf_links": {
+      "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Handbook.pdf": "Student Handbook",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2024/01/Refund-Policy.pdf": "Refund policy",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/International-Student-Application.pdf": "International Student Application",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Authorisation.pdf": "USI Student Authorisation",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Student-Code-of-Conduct.pdf": "Student Code of Conduct",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/COVID-19-Support-for-International-Students.pdf": "COVID-19 Support for International Students",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2024/02/Student-Plagiarism-Policy.pdf": "Student Plagiarism Policy",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Agent-Review-Form.pdf": "Agent Review Form",
+      "https://educert.net/austracollegeweb/wp-content/uploads/2023/12/Education-Agent-Performance-Review-Form.pdf": "Education Agent Performance Review Form"
+    },
+    "decision": "include_directory",
+    "reason": "Preserve explicitly linked document names and destinations with legacy warning."
+  }
+]

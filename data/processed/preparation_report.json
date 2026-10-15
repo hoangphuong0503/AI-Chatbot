@@ -1,29 +1,29 @@
 {
   "input_records": 223,
-  "included_documents": 111,
-  "chunks": 2149,
+  "included_documents": 114,
+  "chunks": 2117,
   "categories": {
-    "college": 20,
+    "college": 21,
     "intake": 1,
-    "form": 20,
+    "form": 23,
     "course": 24,
     "policy": 15,
-    "blog": 31
+    "blog": 30
   },
   "excluded_reasons": {
     "navigation_template_or_utility": 73,
-    "insufficient_readable_content": 14,
+    "insufficient_readable_content": 12,
     "failed_fetch": 5,
-    "identical_raw_content": 6,
-    "legacy_or_newer_policy_candidate_exists": 14
+    "identical_raw_content": 7,
+    "legacy_or_newer_policy_candidate_exists": 12
   },
   "fee_candidates": 96,
-  "review_flagged_documents": 51,
-  "total_embedding_tokens": 324967,
+  "review_flagged_documents": 54,
+  "total_embedding_tokens": 322358,
   "tokenizer": "cl100k_base",
   "max_chunk_tokens": 650,
   "text_overlap_tokens": 60,
-  "median_chunk_tokens": 96,
+  "median_chunk_tokens": 97,
   "maximum_observed_chunk_tokens": 650,
   "note": "Snapshot candidates, not staff-approved facts. No embeddings or cloud writes performed."
 }
