@@ -1,0 +1,11 @@
+# Apple Silicon/Windows/Linux. Use a CUDA PyTorch build for NVIDIA GPU inference.
+torch>=2.6,<3; sys_platform != 'darwin' or platform_machine != 'x86_64'
+transformers>=4.51,<6; sys_platform != 'darwin' or platform_machine != 'x86_64'
+# Official Intel Mac wheels stop at 2.2.2. Use Python 3.11/3.12 and this legacy CPU stack.
+# The worker only loads pinned safetensors, not pickle model weights or remote code.
+torch==2.2.2; sys_platform == 'darwin' and platform_machine == 'x86_64'
+transformers==4.51.3; sys_platform == 'darwin' and platform_machine == 'x86_64'
+numpy>=1.26,<2; sys_platform == 'darwin' and platform_machine == 'x86_64'
+sentencepiece>=0.2,<1
+safetensors>=0.5,<1
+requests>=2.32,<3

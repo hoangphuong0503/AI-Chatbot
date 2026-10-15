@@ -7,6 +7,7 @@ __pycache__/
 .venv/
 tmp/
 data/embeddings/
+data/models/
 *.log
 data/austra_crawl/
 data/test-results/

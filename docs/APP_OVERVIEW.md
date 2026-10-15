@@ -73,7 +73,7 @@ Amy also caches successful results temporarily. An identical question with match
 | DeepSeek V4 Flash (`deepseek-v4-flash-0731`) | Rewrite questions when necessary and generate answers through the configured Intern AI API |
 | BGE reranker v2 M3 | The dedicated local reranker evaluated in the latest development version |
 
-**Version note:** the published code baseline uses DeepSeek for reranking as well as answering. A newer version tested on the developer's computer uses BGE reranker locally while keeping DeepSeek for answers. This documentation update does not publish that newer implementation. The developer should confirm the installed version before setup or deployment.
+**Current version:** this repository includes the dedicated BGE local reranker, while DeepSeek still writes the answers. `RERANKER_PROVIDER=local` selects it; `RERANKER_PROVIDER=llm` restores the previous DeepSeek reranker. On Mac, follow [Mac Setup](MAC_SETUP.md) to install Python, download the models and configure your own service access.
 
 The working local setup therefore combines the developer's computer, Supabase cloud and an external DeepSeek service. It is not fully offline. External embedding and reranking APIs are possible future alternatives; they have not yet been selected and integrated for public deployment.
 

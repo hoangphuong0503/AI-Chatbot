@@ -28,7 +28,7 @@ Some simple questions, such as an exact course fee, use a checked lookup instead
 
 An **API** is a way for our app to ask another service to do a job over the internet. Using embedding and reranking APIs would remove those two workloads from the local computer.
 
-The table describes the latest local development setup. A developer must confirm which code and settings are included in the version selected for deployment; this documentation update does not publish every local experiment.
+The local-reranker implementation is included in the repository. Model files and credentials are installed separately; Mac users should follow [Mac Setup](MAC_SETUP.md). A developer still needs to validate the chosen hosting setup before a public launch.
 
 ## 2. Choose how people will use it
 

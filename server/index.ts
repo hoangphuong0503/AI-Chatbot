@@ -10,6 +10,7 @@ import {loadLocalCorpus} from './retrieval.js';
 import {createChat} from './chat.js';
 import {createEngine} from './engine.js';
 import {createHealthMonitor} from './health.js';
+import {createReranker} from './reranker.js';
 import type {History} from './planner.js';
 import type {SearchHit} from './types.js';
 
@@ -18,6 +19,10 @@ if(!['preview','local-chat','cloud'].includes(mode))throw new Error('Invalid APP
 const cloud=mode==='cloud'?requireCloudConfig():null;
 const chatConfig=mode!=='preview'?requireChatConfig():null;
 const chat=chatConfig?createChat(chatConfig):null;
+const reranker=chat?createReranker(chat):null;
+process.once('exit',()=>reranker?.close());
+process.once('SIGINT',()=>{reranker?.close();process.exit(0);});
+process.once('SIGTERM',()=>{reranker?.close();process.exit(0);});
 const embedding=cloud?createEmbedder(cloud.embeddingApiKey):null;
 const db=cloud?createClient(cloud.url,cloud.secret,{auth:{persistSession:false,autoRefreshToken:false}}):null;
 const corpus=await loadLocalCorpus();
@@ -33,6 +38,7 @@ async function checkSnapshot(signal:AbortSignal){
   if(count.error||count.count!==corpus.length)throw new Error('Chunk/model inventory mismatch');
 }
 const probes:Record<string,(signal:AbortSignal)=>Promise<void>>={};
+if(reranker&&process.env.RERANKER_PROVIDER==='local')probes.reranker=signal=>reranker.check(signal);
 if(db)probes.supabase=checkSnapshot;
 if(chat)probes.deepseek=async signal=>{await chat.complete([{role:'user',content:'Reply with exactly OK.'}],128,signal);};
 if(embedding)probes.embeddings=async signal=>{
@@ -45,8 +51,11 @@ if(embedding)probes.embeddings=async signal=>{
     validateVectors(data.embeddings,1,OLLAMA_EMBEDDING_MODEL==='bge-m3'?1024:768);
   }else await embedding.embed(['Austra course information'],'query');
 };
-const checkHealth=createHealthMonitor(probes);
+// First CUDA/Python startup is slower than a normal network probe. Keep the
+// existing network deadlines while allowing the local model to initialize.
+const checkHealth=createHealthMonitor(probes,60_000,15_000,()=>Date.now(),{reranker:60_000});
 const answer=createEngine({corpus,mode,model:chatConfig?.model||'',endpoint:chatConfig?.baseURL||'',embeddingModel:EMBEDDING_MODEL,chat,
+  reranker:reranker||undefined,
   embed:async query=>(await embedding!.embed([query],'query'))[0],
   semantic:async(vector,course,categories,count)=>{
     const result=await db!.rpc('semantic_search',{p_embedding:vector,p_course_code:course,p_categories:categories,p_match_count:count,p_embedding_model:EMBEDDING_MODEL});
@@ -56,7 +65,9 @@ const app=express();app.disable('x-powered-by');app.use(express.json({limit:'32k
 app.get('/api/health',async(_req,res)=>{
   const status=await checkHealth();
   res.status(status.ready?200:503).json({mode,...status,local_chunks:corpus.length,cloud_configured:Boolean(cloud),chat_model:chatConfig?.model||null,
-    retrieval:mode==='cloud'?'BM25 + vector → RRF → DeepSeek reranker':mode==='local-chat'?'BM25 → DeepSeek reranker':'BM25 source preview'});
+    reranker:reranker?.id||null,
+    reranker_device:reranker?.runtime.device||null,
+    retrieval:mode==='cloud'?`BM25 + vector → RRF → ${reranker?.id}`:mode==='local-chat'?`BM25 → ${reranker?.id}`:'BM25 source preview'});
 });
 app.use('/api/chat',rateLimit({windowMs:60_000,limit:15,standardHeaders:'draft-8',legacyHeaders:false,
   message:{error:'Too many questions. Please try again in a minute.'}}));

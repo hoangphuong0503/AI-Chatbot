@@ -9,6 +9,7 @@
     "ingest": "tsx scripts/ingest.ts",
     "check:chat": "tsx scripts/check_chat.ts",
     "check:embeddings": "tsx scripts/check_embeddings.ts",
+    "check:reranker": "tsx scripts/check_reranker.ts",
     "evaluate": "tsx scripts/evaluate.ts",
     "test:stream": "tsx scripts/test_stream.ts",
     "dev": "concurrently -k -n api,web \"tsx watch server/index.ts\" \"vite --host 127.0.0.1\"",
