@@ -4,7 +4,7 @@ import {readChatStream} from '../src/chat-stream.js';
 const controller=new AbortController();
 let gotToken=false,completed=false,interrupted=false;
 const response=await fetch('http://127.0.0.1:3001/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},signal:controller.signal,
-  body:JSON.stringify({question:'What are the IELTS requirements for CPC30220?',stream:true})});
+  body:JSON.stringify({question:'Explain the steps to appeal an Austra College complaint decision.',stream:true})});
 assert.equal(response.status,200);
 try{
   await readChatStream(response,event=>{

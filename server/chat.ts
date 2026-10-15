@@ -18,12 +18,14 @@ export function createChat(config: ReturnType<typeof requireChatConfig>): ChatCo
   },async stream(messages,onToken,maxTokens=1200,signal){
     const response=await client.chat.completions.create({model:config.model,messages,max_tokens:maxTokens,stream:true,temperature:0,
       ...(config.model.startsWith('deepseek')?{reasoning_effort:'none' as const}:{})},{signal});
-    let answer='';
+    let answer='';let finished=false;
     for await(const chunk of response){
       if(chunk.choices[0]?.finish_reason==='length')throw new Error('Chat response truncated');
+      if(chunk.choices[0]?.finish_reason==='stop')finished=true;
       const token=chunk.choices[0]?.delta.content;
       if(token){answer+=token;onToken(token);}
     }
+    if(!finished)throw new Error('Chat stream ended before completion');
     if(!answer.trim())throw new Error('Chat provider returned no visible answer');
     return answer.trim();
   }};

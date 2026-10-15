@@ -20,9 +20,12 @@ export function intakeEligible(hit:ChunkRecord,code:string|null,state:string|nul
 export function canSkipRewrite(question:string,history:{role:string;content:string}[],namedCourse:string|null):boolean{
   // References can depend on context even when an explicit course code is present.
   if(/\b(it|its|that|this|those|these|they|them|their|same|other|another|also|instead|former|latter|there)\b|\bwhat about\b|\bhow about\b/i.test(question))return false;
-  if(namedCourse)return true;
   // Leave non-English questions to the English query rewriter.
   if(/[^\x00-\x7F]/.test(question))return false;
+  if(namedCourse)return true;
+  // A named form is already a standalone search subject. References above still
+  // require history resolution, including "this form" and "its signature".
+  if(/\b(?:change of (?:contact )?details|education agent performance review|agent review|application leave|policies and forms)\b/i.test(question))return true;
   const intent=/\b(fees?|tuition|cost|price|duration|requirements?|ielts|refund|policy|policies|campus|campuses|address|contact|courses?|intake)\b/i;
   const subject=/\b(austra|college|carpentry|painting|cookery|automotive|hospitality|leadership|management|refund|campus|campuses)\b/i;
   return intent.test(question)&&subject.test(question)&&(!history.length||!/^(and|but|also)\b/i.test(question.trim()));

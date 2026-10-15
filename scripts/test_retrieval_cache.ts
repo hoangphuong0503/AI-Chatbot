@@ -10,16 +10,16 @@ async function ask(question:string,history:{role:string;content:string}[]=[]){
   console.log(JSON.stringify({question,...result.retrieval_stats,total_ms:results.at(-1).total_ms}));
   return result;
 }
-const question='What are the IELTS requirements for CPC30220?';
+const question='Which safety equipment must I bring to the CPC30220 practical workshop?';
 const first=await ask(question);
 assert.equal(first.retrieval_stats.cache_hit,false);assert.equal(first.retrieval_stats.rewrite_skipped,true);
 const repeat=await ask(question,[{role:'user',content:question},{role:'assistant',content:first.answer}]);
 assert.equal(repeat.retrieval_stats.cache_hit,true);
 assert.deepEqual(repeat.sources,first.sources);
-assert.match(repeat.answer,/IELTS/i);
+assert.match(repeat.answer,/PPE|safety/i);
 const followup=await ask('How long does that course take?',[
   {role:'user',content:question},{role:'assistant',content:first.answer}]);
-assert.equal(followup.retrieval_stats.cache_hit,false);assert.equal(followup.retrieval_stats.rewrite_skipped,false);
+assert.equal(followup.retrieval,'structured-duration');assert.equal(followup.timings.answer_ms,0);
 assert.ok(followup.sources.some((s:any)=>s.url.includes('cpc30220')));
 await mkdir('data/test-results',{recursive:true});
 await writeFile('data/test-results/retrieval-cache.json',JSON.stringify({tested_at:new Date().toISOString(),passed:true,results},null,2));
